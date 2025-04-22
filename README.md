@@ -42,11 +42,6 @@ With the rise of online job platforms, fraudulent job postings have become commo
 
 ✅ Confusion matrix and clustering visualizations were generated and analyzed.
 
----
-
-### 📍 Confusion Matrix
-
-![Confusion Matrix](./Screenshot 2025-04-22 151456.png)
 
 ---
 
