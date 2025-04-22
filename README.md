@@ -44,3 +44,10 @@ With the rise of online job platforms, fraudulent job postings have become commo
 
 ---
 
+### 📍 Confusion Matrix
+
+![Confusion Matrix]("C:\Users\kumar\OneDrive\Pictures\Screenshots\Screenshot 2025-04-22 151456.png")
+
+---
+
+
